@@ -5,7 +5,7 @@ This repository hosts the static landing page for **Nimbin Men’s Shed**, publi
 
 ## Live site
 - Custom domain: https://nimbinshedmen.org.au
-- Fallback: https://<your-username>.github.io/nimbin-shed-men/
+- Fallback: https://poundy.github.io/nimbin-shed-men/
 
 ## Structure
 ```
