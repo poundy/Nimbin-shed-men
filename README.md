@@ -1,16 +1,14 @@
+# Nimbin Shed Men - the newly formed Men's Shed for Nimbin
 
-# Nimbin Men’s Shed
-
-This repository hosts the static landing page for **Nimbin Men’s Shed**, published via **GitHub Pages**.
+This repository hosts the static landing page for **Nimbin Shed Men, the newly formed Men’s Shed in Nimbin**, published via **GitHub Pages**.
 
 ## Live site
 - Custom domain: https://nimbinshedmen.org.au
-- Fallback: https://poundy.github.io/nimbin-shed-men/
 
 ## Structure
 ```
 index.html          # Main landing page
-404.html            # Optional not-found page
+404.html            # not-found page
 CNAME               # Contains: nimbinshedmen.org.au
 .nojekyll           # Disables Jekyll; serve as plain static files
 assets/css/styles.css
