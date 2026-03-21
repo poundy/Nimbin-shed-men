@@ -10,8 +10,9 @@ This repository hosts the static landing page for **Nimbin Shed Men, the newly f
 index.html          # Main landing page
 404.html            # not-found page
 CNAME               # Contains: nimbinshedmen.org.au
-.nojekyll           # Disables Jekyll; serve as plain static files
 assets/css/styles.css
 assets/js/main.js
-assets/img/...
+assets/img/...      # image assets
+assets/docs/...     # documents linked to the pages
+_posts/             # markdown files for new items
 ```
