@@ -1,5 +1,5 @@
 ---
-title: "Nimbin Shed Men activities for the week"
+title: "Nimbin Shed Men - Dummy post - activities for the week"
 date: 2026-03-21
 ---
 
